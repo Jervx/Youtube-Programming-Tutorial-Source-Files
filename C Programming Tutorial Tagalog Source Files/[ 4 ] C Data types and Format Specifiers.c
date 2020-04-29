@@ -2,11 +2,10 @@
 
 int main(){
     
-    int num1 = 10;
-    float num2 = 10.5;
-    double num3 = 10.5;
-    char character1 = 'A';
-    char name[] = "BOBCAT";
+    //int number na walang decimal point ex: 1 2 3..... -1 -2 -3..
+    //float number na may decimal point ex : 1.2  1.3  1.4  1.5  1.6 -3.5 -6.7
+    //double 
+    //char  Character A B C D E F G 1 2 3 4 5 ` - = @
+    //char [10]String group of character ABCDEF
     
-    printf("Num1 has %d  -  Num2 has %f  -  num3 has %f  -  Character1 has %c  - Name has value of %s",num1,num2,num3,character1,name);
 }
