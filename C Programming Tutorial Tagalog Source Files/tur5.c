@@ -23,6 +23,6 @@ int main(){
     
     //example 3
     float payment;
-    printf("\nEnter Payment: ");
+    printf("\nEnter Your Payment: ");
     scanf("%f",&payment);
 }
