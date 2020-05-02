@@ -19,4 +19,10 @@ int main(){
     scanf("%c",&name);
 
     printf("Your name is %s",name);
+    
+    
+    //example 3
+    float payment;
+    printf("\nEnter Payment: ");
+    scanf("%f",&payment);
 }
