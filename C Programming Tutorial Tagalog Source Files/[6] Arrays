@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+  
+  int set1[5];
+  int set2[] = {1,2,3,4,5};
+  
+  
+}
