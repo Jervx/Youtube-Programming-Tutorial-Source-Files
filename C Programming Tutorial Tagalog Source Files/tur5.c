@@ -1,4 +1,5 @@
 #include <stdio.h>
+//this is the standard library for input output
 
 int main(){
 
