@@ -5,5 +5,8 @@ int main(){
   int set1[5];
   int set2[] = {1,2,3,4,5};
   
+  char set[5];
+  char set[] = {'A','B','C','D','E'};
+  char setStr[] = "ABCDE" ;
   
 }
