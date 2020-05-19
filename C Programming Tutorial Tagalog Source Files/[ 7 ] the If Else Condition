@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+//Condition -> If and Else 
+
+int main(){
+  
+  float money = 10.00;
+  
+  if(money >= 10){
+	printf("Meron kang IceCream");
+  }
+  else{
+  	printf("Mag Candy kanalang");
+  }
+  
+}
