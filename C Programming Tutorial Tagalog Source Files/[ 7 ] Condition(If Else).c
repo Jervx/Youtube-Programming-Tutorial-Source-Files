@@ -2,20 +2,12 @@
 
 int main(){
   
-  int set1[5];
-
-  set1[0] = 1;
-  set1[1] = 2;
-  set1[2] = 3;
-  set1[3] = 4;
-  set1[4] = 5;
-
-  int set2[] = {1,2,3,4,5};
+  float money = 5.00;
   
-  char set[5];
-  char set[] = {'A','B','C','D','E'};
-
-  char setStr[] = "ABCDE" ;
-  printf("%s",set);
   
+  if(money >= 10) {
+  	printf("May Icecream ka");
+  }else{
+  	printf("Then meron candy");
+  }
 }

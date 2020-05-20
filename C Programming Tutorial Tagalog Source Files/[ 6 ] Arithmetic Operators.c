@@ -1,6 +1,12 @@
 #include <stdio.h>
 
 int main(){
+	
+    /*
+    	Arithmetic Operators are : +  -  *  /  %
+    	
+    */
+
 
     int x = 5;
     int y = 1;
